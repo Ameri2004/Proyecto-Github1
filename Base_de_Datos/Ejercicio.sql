@@ -1,0 +1,1 @@
+ALTER TABLE Estudiantes ADD COLUMN edad INT;
